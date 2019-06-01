@@ -54,7 +54,8 @@ Description
     Features to add:
     
       Can it clear a wall?
-			Enclosed space, bounce around the room?
-				Reflection mechanics
+      Enclosed space, bounce around the room?
+      Reflection mechanics
+      Visual simulator using Python wrapper?
 
     
